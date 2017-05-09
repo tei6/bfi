@@ -1,14 +1,10 @@
 # bfi
 
-A Clojure library designed to ... well, that part is up to you.
+Brainf*ck interpreter written in Clojure.
 
 ## Usage
 
-FIXME
+$ lein  uberjar
+$ java -jar target\bfi.jar sample\hello.b
+Hello, world!
 
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
